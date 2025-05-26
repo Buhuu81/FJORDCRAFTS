@@ -8,13 +8,13 @@
 </head>
 <body>
     <div class="container">
-        <img src="background.jpg" class="background">
+        <img src="Pictures/background.png" class="background">
         <div class="logo">
-            <img src="logo.png" alt="Your Logo">
+            <img src="Pictures/logo_notext.svg" alt="Logo">
         </div>
-        <div class="social-links">
-            <a href="https://facebook.com" target="_blank"><img src="facebook.png" alt="Facebook"></a>
-            <a href="https://instagram.com" target="_blank"><img src="instagram.png" alt="Instagram"></a>
+        <div class="">
+            <a href="" target="_blank"><img src="" alt="Facebook"></a>
+            <a href="" target="_blank"><img src="" alt="Instagram"></a>
         </div>
     </div>
 </body>
